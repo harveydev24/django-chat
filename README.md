@@ -8,3 +8,6 @@ pip install -r requirements.txt
 redis-server
 python manage.py runserver
 ```
+
+## Reference
+[django-channels](https://channels.readthedocs.io/en/stable/topics/channel_layers.html?highlight=redis#redis-channel-layer)
